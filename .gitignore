@@ -4,9 +4,13 @@
 *.pyc
 django_dropbox.egg-info/
 dist/
+venv/
 bin/
 lib/
 include/
 build/
 .Python
 local_settings.py
+.coverage
+coverage.xml
+
